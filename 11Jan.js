@@ -11,9 +11,9 @@ const totalCharacters = (arr) => {
 totalCharacters(["abc","yz"]) // => 5
 
 /* 2- Write a function named getCourseKeys
- that takes in the courseInfo object
+ that takes any object,
   and returns an array containing
-   the keys for the courseInfo object.
+   the keys for that object.
     For example:.
 */
 const courseInfo = {
