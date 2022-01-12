@@ -4,7 +4,7 @@ Python OR Ruby OR JS. It should return true if the number of developers
 who know the same language is maximum 2 and false otherwise.  
 */
 
-const isDiverse = (sentence, i) => {
+const isDiverse = (devArr) => {
   // Solution code here...
 };
 isDiverse([
