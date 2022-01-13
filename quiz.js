@@ -1,12 +1,5 @@
 console.log("Hello World!");
 
-/*1- Write a function named getMax
-that takes an array of object each object have a key  "price"
-return the object that have  the maximum price.
-*/
-
-
-
 /*2- Write a function named sumOfPositives
  that takes  an array of numbers  and
   returns the the sum of all of the positives ones.
@@ -18,3 +11,19 @@ const sumOfPositives = (arr) => {
 
 
 sumOfPositives([ 1 , -5 , -4 , 5 , -10 ]) //> 6
+
+
+
+/*2- Write a function named getMax
+that takes an array of object each object have a key  "price"
+return the object that have  the maximum price.
+*/
+
+const getMax = (arr)=>{
+ // code here
+ 
+}
+
+
+
+
