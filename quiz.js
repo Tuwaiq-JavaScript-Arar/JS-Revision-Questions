@@ -7,15 +7,14 @@ return the object that have  the maximum price.
 
 
 
-/*2- Write a function named countCharacter
- that takes a string  and
-  returns an object with keys  and values
-  of each character and  how many times it shows in the string.
+/*2- Write a function named sumOfPositives
+ that takes  an array of numbers  and
+  returns the the sum of all of the positives ones.
 */
 
-const countCharacter = (string) => {
-  //code here
+const sumOfPositives = (arr) => {
+  // code here
 };
 
 
-countCharacter("hello"); // =>  {h :1 , e:1 , l:2 , o:1}
+sumOfPositives([ 1 , -5 , -4 , 5 , -10 ]) //> 6
