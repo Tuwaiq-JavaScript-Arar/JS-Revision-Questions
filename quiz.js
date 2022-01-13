@@ -25,5 +25,11 @@ const getMax = (arr)=>{
 }
 
 
+getMax([
+  { name: "car", price: 2000 },
+  { name: "phone", price: 1500 },
+  { name: "computer", price: 500 },
+];) // =>  { name: "car", price: 2000 }
+
 
 
